@@ -1,4 +1,4 @@
-# Finite Automaton Word Acceptance Checker
+# Finite Automaton Word Acceptance Checker(C++)
 
 ## Introduction
 
