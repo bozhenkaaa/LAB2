@@ -44,14 +44,14 @@ Example:
 
 1. Compile the program:
 ```
-g++ fa_word_acceptance_checker.cpp -o fa_word_acceptance_checker
+g++ main.cpp -o main
 ```
 
 2. Make sure 'automaton.txt' contains the proper description of the automaton you want to use.
 
 3. Run the program:
 ```
-./fa_word_acceptance_checker
+./main
 ```
 
 4. Enter the input string `w0`:
